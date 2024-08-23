@@ -64,3 +64,8 @@ while True:
         break
     else:
         print("Opción Invalida")
+
+def saltar(self):
+    print("Esta saltando")
+
+    #agregue funcion saltar
